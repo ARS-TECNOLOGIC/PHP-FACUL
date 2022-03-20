@@ -1,6 +1,6 @@
 <?php
 
-$imc = 20.8;
+$imc = 22.8;
 
 retfaixa($imc);
 
